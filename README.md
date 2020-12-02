@@ -1,0 +1,2 @@
+# SpringMongoSample
+MongoDb Sample
